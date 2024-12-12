@@ -463,9 +463,7 @@ if page == "Data Visualization":
             st.markdown("##### t-SNE Visualization for PTB Dataset")
             st.image("PTB_tsne.png", width=600)
 
-    # Add more figures for different types of visualizations if needed
-    # st.subheader("Figure X: Example Visualization X")
-    # st.image("path/to/your/imageX.jpeg", caption="Description of the Xth figure")
+    
 
 
 st.markdown(
